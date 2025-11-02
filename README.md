@@ -8,7 +8,7 @@ An implementation of all commonly known design patterns in java, with good and b
 2. Builder
 3. Factory
 4. Prototype
-5. Singleton
+5. Singleton ![Implemented](https://img.shields.io/badge/implemented-green)
 6. Object Pool
 7. Lazy Initialization
 8. Dependency Injection
