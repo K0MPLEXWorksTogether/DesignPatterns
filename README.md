@@ -1,9 +1,9 @@
-![Implemented](https://img.shields.io/badge/implemented-0-red)
+![Implemented](https://img.shields.io/badge/implemented-1-orange)
 
 # DesignPatterns
 An implementation of all commonly known design patterns in java, with good and bad code examples. Here's a list of all the commonly used design patterns and their implementation status:
 
-## Creational Patterns ![Implemented](https://img.shields.io/badge/implemented-0-red)
+## Creational Patterns ![Implemented](https://img.shields.io/badge/implemented-1-orange)
 1. Abstract Factory 
 2. Builder
 3. Factory
